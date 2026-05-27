@@ -1,4 +1,4 @@
-#Bizhawk -> Tools -> Lua console 
+#B izhawk -> Tools -> Lua console 
 ## add the lua
 ### toggle with backspace
 <img width="635" height="477" alt="Screenshot 2026-05-27 024648" src="https://github.com/user-attachments/assets/58c1458c-626d-4fd0-88ce-e3963e07535b" />
